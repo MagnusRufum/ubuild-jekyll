@@ -13,24 +13,24 @@ page_sections:
   logo: ''
 - template: hero-banner-w-image
   block: hero-2
-  background_image: ''
+  background_image: "/uploads/2018/06/21/drone-photo.jpeg"
   image:
     image: ''
     alt_text: ''
-  headline: ''
-  content: ''
+  headline: New and Improved
+  content: Here is our new site
   cta:
-    enabled: false
-    url: ''
-    button_text: ''
+    enabled: true
+    url: "#"
+    button_text: Sign Up
 - template: 2-column-text
   block: two-column-1
   col_1:
-    headline: ''
-    content: ''
+    headline: Side 1
+    content: Lorem Ipsum
   col_2:
-    headline: ''
-    content: ''
+    headline: Side 2
+    content: Lorem Ispum Lorem
 - template: 4-column-footer
   block: footer-2
   image: ''
